@@ -1,0 +1,52 @@
+p {
+    color:white ;
+    font-size:15px;
+} 
+#plum{
+    background-color:blue;
+    color: yellow;
+}
+
+body{
+    background-color:green;
+
+}
+h1,h2,h3 {
+    font-family: 'PT Sans Narrow', Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight:800;
+}
+
+    /*NAVBAR styles*/
+    
+.navbar {
+        background-color: green;
+        text-transform:  uppercase;
+        font-weight: 900;
+    }
+.navbar a:hover {
+    color:#F0E3DE !important;
+    text-decoration: none !important;
+}
+
+/*HEADER styles*/
+.header{
+    height: 800px;
+    margin-top:50px;
+    width: 100%;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+}
+    .header img {
+        height: 250px
+        width:25px;
+        margin-top: 40px;
+        margin bottom: 10px;
+    
+}
+.service{
+    padding-top:50 px;
+}
